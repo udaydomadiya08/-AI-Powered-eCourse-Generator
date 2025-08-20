@@ -17,6 +17,7 @@ Scalable for multiple subjects and difficulty levels
 Clone this repository:
 
 git clone https://github.com/your-username/ecourse-generator.git
+
 cd ecourse-generator
 
 
