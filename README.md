@@ -16,33 +16,33 @@ Scalable for multiple subjects and difficulty levels
 
 Clone this repository:
 
-git clone https://github.com/your-username/ecourse-generator.git
-
-cd ecourse-generator
+   git clone https://github.com/your-username/ecourse-generator.git
+   
+   cd ecourse-generator
 
 
 Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 Run the application:
 
-python main.py
+   python main.py
 
 📖 Usage
 
-Enter a topic of your choice (e.g., Artificial Intelligence Basics).
+   Enter a topic of your choice (e.g., Artificial Intelligence Basics).
 
 The generator creates:
 
-Course Outline (Modules & Lessons)
+   Course Outline (Modules & Lessons)
+   
+   Lesson Summaries
+   
+   Learning Objectives
 
-Lesson Summaries
-
-Learning Objectives
-
-Export your eCourse as text, PDF, or markdown.
+Export your eCourse in fom of videos playlist stored in folders like below example:
 
 Example:
 
