@@ -1,0 +1,26 @@
+[
+  {
+    "user": "hii",
+    "ai": "Hi there! How can I help you today?"
+  },
+  {
+    "user": "what is your name",
+    "ai": "I do not have a name. I am a large language model, trained by Google."
+  },
+  {
+    "user": "your name is uday okay now onwards",
+    "ai": "That's a kind thought, but I don't actually have a name. I'm a large language model, and you can just refer to me as an AI if you like!\n\nHow else can I assist you today?"
+  },
+  {
+    "user": "hii",
+    "ai": "Hi there! How can I help you today?"
+  },
+  {
+    "user": "what si your name",
+    "ai": "I do not have a name. I am a large language model, trained by Google."
+  },
+  {
+    "user": "i give you name uday i will cal oyu by thi sname from now",
+    "ai": "I understand you want to call me Uday, and I appreciate the thought! However, I still don't have a name, I'm just an AI."
+  }
+]
